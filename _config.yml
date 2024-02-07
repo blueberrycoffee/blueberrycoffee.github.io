@@ -19,6 +19,7 @@ email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://blueberrycoffee.github.io"
+
 author:
   name:
   twitter:
